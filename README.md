@@ -1,49 +1,83 @@
-# Olá, eu sou o Eusébio Munene! 👋 
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Founder+at+ASTER;IT+Technician+%26+Programmer;Linux+Infrastructure+Analyst+Student;Based+in+Maputo%2C+Mozambique" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=250&section=header&text=Eusebio%20Munene&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Fundador+da+ASTER;Analista+de+Infraestrutura+Linux;Sistemas+%26+SaaS+Developer;T%C3%A9cnico+Inform%C3%A1tico;Maputo,+Mo%C3%A7ambique+%F0%9F%87%B2%F0%9F%87%BF" alt="Typing SVG" />
 </div>
 
 ---
 
 ### 🚀 Sobre Mim
 
-Sou o fundador da **ASTER - Informática & Serviços**, onde transformamos tecnologia em soluções reais. Minha jornada é movida pela curiosidade entre o código e o servidor.
+Sou o fundador da **ASTER - Informática & Serviços**. Atuo como **Técnico Informático** e **Analista de Infraestrutura Linux**, e atualmente estou focado em dominar a programação para a criação de sistemas inovadores e soluções **SaaS**.
 
-- 🏢 **Fundador:** [ASTER - Informática & Serviços](https://aster.co.mz)
-- 🛠️ **Expertise:** Suporte Técnico, Desenvolvimento de Sistemas e Administração Linux.
-- 🎓 **Foco atual:** Especialização em Análise de Infraestrutura Linux (Ubuntu Server, Zentyal).
+- 🏢 **Empresa:** [ASTER - Informática & Serviços](https://aster.co.mz)
+- 🛠️ **Foco:** Infraestrutura Linux, Desenvolvimento de Sistemas e SaaS.
 - 📍 **Localização:** Maputo, Moçambique 🇲🇿
 
 ---
 
-### 🛠️ Stack Tecnológica
-
-| Categoria | Tecnologias e Ferramentas |
-| :--- | :--- |
-| **Infraestrutura** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E9430F?style=for-the-badge&logo=ubuntu&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) |
-| **Desenvolvimento** | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) |
-| **Database** | ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) |
+### 🛠️ Toolbox (Habilidades Técnicas)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,nodejs,js,postgres,supabase,prisma,git,docker,vscode&theme=dark" />
+</div>
 
 ---
 
-### 📊 Estatísticas e Atividade
-
+### 📊 Dashboard de Performance
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emuneme&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emuneme&layout=compact&langs_count=7&theme=dracula" />
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emuneme&theme=dracula" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=emuneme&theme=dracula" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=emuneme&theme=dracula" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://streak-stats.demolab.com/?user=emuneme&theme=dracula&hide_border=true" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-### 🐍 Snake Game (Minhas contribuições)
-![Snake animation](https://github.com/emuneme/emuneme/blob/output/github-contribution-grid-snake.svg)
+---
+
+### 🐍 Contribution Snake
+<div align="center">
+  <img src="https://github.com/emuneme/emuneme/blob/output/github-contribution-grid-snake.svg" alt="Snake" />
+</div>
+
 ---
 
 ### 📫 Vamos nos conectar?
+<div align="center">
+  <a href="https://wa.me/258878491000" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/emuneme/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@EusebioAugusto" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://facebook.com/eusebio.a.muneme" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://aster.co.mz" target="_blank">
+    <img src="https://img.shields.io/badge/Website-007acc?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="mailto:emunene@aster.co.mz">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
-- 🌐 **Website:** [aster.co.mz](https://aster.co.mz)
-- 📧 **Email:** [emunene@aster.co.mz](mailto:emunene@aster.co.mz)
-- 💼 **LinkedIn:** https://www.linkedin.com/in/emuneme/
+<br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=emuneme&label=Perfil%20Views&color=0e75b6&style=flat" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=emuneme&label=Perfil%20Views&color=0e75b6&style=flat-square" />
 </div>
