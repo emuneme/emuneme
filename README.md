@@ -38,7 +38,7 @@ Sou o fundador da **ASTER - Informática & Serviços**, onde transformamos tecno
 <div align="center">
   <img src="https://github.com/emuneme/emuneme/blob/output/github-contribution-grid-snake.svg" alt="snake" />
 </div>
-
+![Snake animation](https://github.com/emuneme/emuneme/blob/output/github-contribution-grid-snake.svg)
 ---
 
 ### 📫 Vamos nos conectar?
