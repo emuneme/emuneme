@@ -35,9 +35,6 @@ Sou o fundador da **ASTER - Informática & Serviços**, onde transformamos tecno
 </div>
 
 ### 🐍 Snake Game (Minhas contribuições)
-<div align="center">
-  <img src="https://github.com/emuneme/emuneme/blob/output/github-contribution-grid-snake.svg" alt="snake" />
-</div>
 ![Snake animation](https://github.com/emuneme/emuneme/blob/output/github-contribution-grid-snake.svg)
 ---
 
